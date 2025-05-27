@@ -11,7 +11,7 @@ app.use(express.json());
 app.use('/api/auth', authRoutes);  
 
 const bookRoutes = require('./routes/books');
-app.use('/api/books', bookRoutes);
+app.use('/api/', bookRoutes);
 
 
 app.listen(5000, () => {
