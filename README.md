@@ -1,4 +1,4 @@
-# Book Review SQLite API
+![image](https://github.com/user-attachments/assets/cd41c99e-cd80-4213-a4f1-a5d7e03facbe)# Book Review SQLite API
 
 This is a RESTful API for a Book Review application built with Node.js, Express, and SQLite. It allows users to register, authenticate, manage books, and add reviews with ratings. The API uses JWT for authentication and SQLite as the database.
 
@@ -132,6 +132,23 @@ The SQLite database (`bookreview.db`) contains three tables:
 - Passwords are hashed using bcryptjs.
 - The server listens on port 5000.
 - CORS is enabled for all origins.
+
+## Postman Images for better understanding
+![image](https://github.com/user-attachments/assets/ccf3aceb-f0a0-4840-bb2f-55f07a21f74f)
+![image](https://github.com/user-attachments/assets/404048ad-f01a-40e8-b3c2-ab71be80b0e1)
+![image](https://github.com/user-attachments/assets/8b6ddb7d-a046-4622-82e8-05302278bb1c)
+![image](https://github.com/user-attachments/assets/0ffcbad0-6004-41c7-bbb5-38f3263404bb)
+![image](https://github.com/user-attachments/assets/d0cf3711-fd50-4d1a-b5cb-a5dab768a038)
+![image](https://github.com/user-attachments/assets/c915bb02-3147-496d-88ac-11dc417e0ce8)
+![image](https://github.com/user-attachments/assets/f264f2ee-7381-43ef-9965-2aaa98e28572)
+![image](https://github.com/user-attachments/assets/adddf5a7-532d-4e7c-840c-1909c954db87)
+![image](https://github.com/user-attachments/assets/90d88bf6-bef8-4308-a033-59a26dcf1ac0)
+![image](https://github.com/user-attachments/assets/96fe1401-e16d-4858-b4bf-6f773f39b1dc)
+![image](https://github.com/user-attachments/assets/321e10f4-1325-4ee6-be9b-387c2f2fdab6)
+
+
+
+
 
 ## License
 
